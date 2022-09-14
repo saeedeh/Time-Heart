@@ -38,7 +38,7 @@ This file also contains code for exporting the resulting dataframe to rpy2 to us
 ### 00-setup-baselineHRV.py
 Extract the baseline HRV measures (recodred during rest), and analyze the result
 
-### "00-setup-interoception.py"
+### 00-setup-interoception.py
 Analyze the heartbeat counting task
 <br/>
 
