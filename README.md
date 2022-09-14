@@ -6,7 +6,7 @@ This repository contains the code for a study on the relationship between heart 
 ## Code structure ##
 
 
-### psychometric directory
+### psychometric
 Routines for psychometric fitting the obtain bias and threshold for each subject in the bisection task using the Palamedes toolbox
 <br/>
 
